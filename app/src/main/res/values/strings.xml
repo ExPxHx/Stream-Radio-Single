@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ultra Digital</string>
+
+    <string name="title_1"></string>
+    <string name="title_2"></string>
+
+    <string name="connection_error_dialog_title">Error de conexión</string>
+    <string name="radio_offline">Radio desconectada</string>
+    <string name="resume">Reintetar</string>
+    <string name="connection_error_dialog_message">Sin conexion a internet, revise su conectividad.</string>
+    <string name="connection_error_dialog_button">Reintentar</string>
+
+    <string name="admob_id">ca-app-pub-6724609620092206/8406682772</string>
+    <string name="admob_true_or_false">false</string>
+
+    <string name="welcome_small">Iniciar.</string>
+
+    <string name="radio_name">Ultra Radio</string>
+    <string name="radio_location"></string>
+    <string name="radio_url">http://stream.derflus.com:8010/;stream.mp3</string>
+
+    <string name="web_url">https://ultranoticiasdigital.com</string>
+    <string name="share_url">http://ultraradiodigital.com</string>
+
+    <string name="autostart_true_or_false">true</string>
+
+</resources>
